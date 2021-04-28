@@ -1,3 +1,30 @@
 [submodule "wb11"]
 	path = wb11
 	url = https://github.com/LukeHouge/wb11.git
+[submodule "wb09"]
+	path = wb09
+	url = https://github.com/LukeHouge/wb09.git
+[submodule "wb01"]
+	path = wb01
+	url = https://github.com/LukeHouge/wb01.git
+[submodule "wb08"]
+	path = wb08
+	url = https://github.com/LukeHouge/wb08.git
+[submodule "wb07"]
+	path = wb07
+	url = https://github.com/LukeHouge/wb07.git
+[submodule "wb06"]
+	path = wb06
+	url = https://github.com/LukeHouge/wb06.git
+[submodule "wb05"]
+	path = wb05
+	url = https://github.com/LukeHouge/wb05.git
+[submodule "wb04"]
+	path = wb04
+	url = https://github.com/LukeHouge/wb04.git
+[submodule "wb03"]
+	path = wb03
+	url = https://github.com/LukeHouge/wb03.git
+[submodule "wb02"]
+	path = wb02
+	url = https://github.com/LukeHouge/wb02.git
