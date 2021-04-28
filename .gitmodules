@@ -1,0 +1,3 @@
+[submodule "wb11"]
+	path = wb11
+	url = https://github.com/LukeHouge/wb11.git
